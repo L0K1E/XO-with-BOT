@@ -1,6 +1,6 @@
 # Tic Tac Toe (With Bot)
 
-It is simple **Tic Tac Toe** game with AI created using minmax algorithm
+It is a simple **Tic Tac Toe** game with AI created using minmax algorithm.
 
 ## How to play
 
